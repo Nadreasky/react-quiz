@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-quiz/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/react-quiz/static/js/main.19152dfd.chunk.js",
+    "main.js.map": "/react-quiz/static/js/main.19152dfd.chunk.js.map",
+    "runtime-main.js": "/react-quiz/static/js/runtime-main.acabde0b.js",
+    "runtime-main.js.map": "/react-quiz/static/js/runtime-main.acabde0b.js.map",
+    "static/js/2.85798b1f.chunk.js": "/react-quiz/static/js/2.85798b1f.chunk.js",
+    "static/js/2.85798b1f.chunk.js.map": "/react-quiz/static/js/2.85798b1f.chunk.js.map",
+    "index.html": "/react-quiz/index.html",
+    "precache-manifest.1884f54ebbc86610c19db7057fc372bd.js": "/react-quiz/precache-manifest.1884f54ebbc86610c19db7057fc372bd.js",
+    "service-worker.js": "/react-quiz/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/react-quiz/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.85798b1f.chunk.js.LICENSE.txt": "/react-quiz/static/js/2.85798b1f.chunk.js.LICENSE.txt",
+    "static/media/background.jpg": "/react-quiz/static/media/background.c11f97a3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.acabde0b.js",
+    "static/js/2.85798b1f.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.19152dfd.chunk.js"
+  ]
+}
